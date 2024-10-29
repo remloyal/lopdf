@@ -1,0 +1,20 @@
+{
+  "name": "lopdf-win32-arm64-msvc",
+  "version": "0.3.0",
+  "os": [
+    "win32"
+  ],
+  "cpu": [
+    "arm64"
+  ],
+  "main": "lopdf.win32-arm64-msvc.node",
+  "files": [
+    "lopdf.win32-arm64-msvc.node"
+  ],
+  "description": "Read PDF",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  },
+  "repository": "https://github.com/remloyal/lopdf.git"
+}
